@@ -20,6 +20,8 @@ Users should be able to:
 
 :link: [Solution Link]() :link: [Live Site Link]()
 
+![](./.docs/design/desktop-design.jpg)
+
 ## Working in `fm-static-job-listing` repository
 
 ### Packages being used
